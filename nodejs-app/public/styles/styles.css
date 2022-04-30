@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Inconsolata&family=Roboto+Slab&display=swap");
+
+body {
+  font-family: "Roboto Slab", serif;
+  color: #d8dee9;
+  font-size: 12px;
+  line-height: 1.7;
+  padding: 1em;
+  margin: auto;
+  max-width: 42em;
+  background: #2e3440;
+}
+
+input {
+  font-family: "Roboto Slab", serif;
+}
+
+#mainB:hover {
+  background-color: aqua;
+}
+
+#formm {
+  padding: 10px;
+}
+
+#ss:hover {
+  background-color: blueviolet;
+}
